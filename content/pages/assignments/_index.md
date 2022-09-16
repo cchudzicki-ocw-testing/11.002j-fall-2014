@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains descriptions of the assignments for this class,
+  as well as examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
